@@ -49,3 +49,9 @@ spam-detector/
 ├── templates/
 │    └── index.html             # Web interface template
 │
+├── screenshots/
+│    ├── home.png               # Placeholder screenshot
+│    └── result.png             # Placeholder screenshot
+```
+
+---
