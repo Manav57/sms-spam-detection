@@ -49,17 +49,3 @@ spam-detector/
 ├── templates/
 │    └── index.html             # Web interface template
 │
-├── screenshots/
-│    ├── home.png               # Placeholder screenshot
-│    └── result.png             # Placeholder screenshot
-```
-
----
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home](screenshots/home.png)
-
-### 📊 Result Page
-![Result](screenshots/result.png)
